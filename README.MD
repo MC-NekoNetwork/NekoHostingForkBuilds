@@ -24,11 +24,11 @@ This repository includes builds for various abandoned projects. Each project has
 
 Here are jar builds available in this repository:
 
-| Plugin/Project Name | Version                       | Built For MC | Source Zip |
-|---------------------|-------------------------------|--------------|------------|
-| [nightcore](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/JarBuilds/nightcore-6.0.0-NekoHostingBuild.jar)           | 6.0.0-NekoHostingBuild        | 1.21.1       | [nightcore-master-nekohostingbuild.zip](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/ZippedSourceCodeBuilds/nightcore-spigot-master-nekohostingbuild.zip) |
-| [ExcellentCrates-FOLIA](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/JarBuilds/ExcellentCrates-6.0.0-FOLIA-NekoHostingBuild.jar)     | FOLIA-6.0.0-NekoHostingBuild  | 1.21.1       | [ExcellentCrates-folia-master-nekohostingbuild.zip](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/ZippedSourceCodeBuilds/ExcellentCrates-folia-master-nekohostingbuild.zip) |
-| [ExcellentCrates-SPIGOT](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/JarBuilds/ExcellentCrates-6.0.0-SPIGOT-NekoHostingBuild.jar)     | SPIGOT-6.0.0-NekoHostingBuild | 1.21.1       | [ExcellentCrates-spigot-master-nekohostingbuild.zip](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/ZippedSourceCodeBuilds/ExcellentCrates-spigot-master-nekohostingbuild.zip) |
+| Plugin/Project Name | Version                       | Built For MC | Source Zip | Original Repo | Original Author/User |
+|---------------------|-------------------------------|--------------|------------|---------------|-----------------|
+| [nightcore](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/JarBuilds/nightcore-6.0.0-NekoHostingBuild.jar)           | 6.0.0-NekoHostingBuild        | 1.21.1       | [nightcore-master-nekohostingbuild.zip](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/ZippedSourceCodeBuilds/nightcore-spigot-master-nekohostingbuild.zip) | [OG Repo](https://github.com/nulli0n/nightcore-spigot) | [nulli0n](https://github.com/nulli0n) |
+| [ExcellentCrates-FOLIA](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/JarBuilds/ExcellentCrates-6.0.0-FOLIA-NekoHostingBuild.jar)     | FOLIA-6.0.0-NekoHostingBuild  | 1.21.1       | [ExcellentCrates-folia-master-nekohostingbuild.zip](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/ZippedSourceCodeBuilds/ExcellentCrates-folia-master-nekohostingbuild.zip) | [OG PR #216](https://github.com/nulli0n/ExcellentCrates-spigot/pull/216) | [BaiShenYaoDog](https://github.com/BaiShenYaoDog) |
+| [ExcellentCrates-SPIGOT](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/JarBuilds/ExcellentCrates-6.0.0-SPIGOT-NekoHostingBuild.jar)     | SPIGOT-6.0.0-NekoHostingBuild | 1.21.1       | [ExcellentCrates-spigot-master-nekohostingbuild.zip](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/ZippedSourceCodeBuilds/ExcellentCrates-spigot-master-nekohostingbuild.zip) | [OG Repo](https://github.com/nulli0n/ExcellentCrates-spigot) | [nulli0n](https://github.com/nulli0n) |
 
 (More entries will be added as builds become available)
 
