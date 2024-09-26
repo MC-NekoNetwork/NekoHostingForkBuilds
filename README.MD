@@ -30,7 +30,7 @@ Here are jar builds available in this repository:
 | [ExcellentCrates-FOLIA](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/JarBuilds/ExcellentCrates-6.0.0-FOLIA-NekoHostingBuild.jar)     | FOLIA-6.0.0-NekoHostingBuild  | 1.21.1       | [ExcellentCrates-folia-master-nekohostingbuild.zip](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/ZippedSourceCodeBuilds/ExcellentCrates-folia-master-nekohostingbuild.zip) | [OG PR #216](https://github.com/nulli0n/ExcellentCrates-spigot/pull/216) | [BaiShenYaoDog](https://github.com/BaiShenYaoDog) |
 | [ExcellentCrates-SPIGOT](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/JarBuilds/ExcellentCrates-6.0.0-SPIGOT-NekoHostingBuild.jar)     | SPIGOT-6.0.0-NekoHostingBuild | 1.21.1       | [ExcellentCrates-spigot-master-nekohostingbuild.zip](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/ZippedSourceCodeBuilds/ExcellentCrates-spigot-master-nekohostingbuild.zip) | [OG Repo](https://github.com/nulli0n/ExcellentCrates-spigot) | [nulli0n](https://github.com/nulli0n) |
 
-(More entries will be added as builds become available)
+(More entries will be added as requested from NekoHosing Discord or Github)
 
 ## Disclaimer
 
