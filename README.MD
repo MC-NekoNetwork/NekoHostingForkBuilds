@@ -26,9 +26,9 @@ Here are jar builds available in this repository:
 
 | Plugin/Project Name | Version                       | Built For MC | Source Zip |
 |---------------------|-------------------------------|--------------|------------|
-| [nightcore](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/JarBuilds/nightcore-6.0.0-NekoHostingBuild.jar)           | 6.0.0-NekoHostingBuild        | 1.21.1       | nightcore-spigot-master-nekohostingbuild.zip |
-| [ExcellentCrates-FOLIA](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/JarBuilds/ExcellentCrates-6.0.0-FOLIA-NekoHostingBuild.jar)     | FOLIA-6.0.0-NekoHostingBuild  | 1.21.1       | ExcellentCrates-folia-master-nekohostingbuild.zip |
-| [ExcellentCrates-SPIGOT](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/JarBuilds/ExcellentCrates-6.0.0-SPIGOT-NekoHostingBuild.jar)     | SPIGOT-6.0.0-NekoHostingBuild | 1.21.1       | ExcellentCrates-spigot-master-nekohostingbuild.zip|
+| [nightcore](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/JarBuilds/nightcore-6.0.0-NekoHostingBuild.jar)           | 6.0.0-NekoHostingBuild        | 1.21.1       | [nightcore-master-nekohostingbuild.zip](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/ZippedSourceCodeBuilds/nightcore-spigot-master-nekohostingbuild.zip) |
+| [ExcellentCrates-FOLIA](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/JarBuilds/ExcellentCrates-6.0.0-FOLIA-NekoHostingBuild.jar)     | FOLIA-6.0.0-NekoHostingBuild  | 1.21.1       | [ExcellentCrates-folia-master-nekohostingbuild.zip](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/ZippedSourceCodeBuilds/ExcellentCrates-folia-master-nekohostingbuild.zip) |
+| [ExcellentCrates-SPIGOT](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/JarBuilds/ExcellentCrates-6.0.0-SPIGOT-NekoHostingBuild.jar)     | SPIGOT-6.0.0-NekoHostingBuild | 1.21.1       | [ExcellentCrates-spigot-master-nekohostingbuild.zip](https://github.com/MC-NekoNetwork/NekoHostingForkBuilds/blob/main/ZippedSourceCodeBuilds/ExcellentCrates-spigot-master-nekohostingbuild.zip) |
 
 (More entries will be added as builds become available)
 
