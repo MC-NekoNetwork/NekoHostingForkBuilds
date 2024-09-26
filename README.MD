@@ -58,4 +58,4 @@ Also we go by if source code is open/forkable and available OR its closed source
 
 If you have any questions, suggestions, or concerns, please open an issue in this repository.
 
-Thank you for using and contributing to the Abandoned Projects Builds repository!
+Thank you for using and contributing to the Neko Hosting Fork Builds!
